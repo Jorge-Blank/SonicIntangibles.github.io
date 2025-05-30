@@ -6,8 +6,8 @@ tags: inter_blog, student-blog, reflection
 featured: true
 ---
 
-# Introducting::::Interdisciplinary Approaches to Perceptualizing Intangible Phenomena through Sound and Listening! 
-## a month-long, student-led, research-intensive project by students from Newcastle University!
+# Introducting: Interdisciplinary Approaches to Perceptualizing Intangible Phenomena through Sound and Listening! 
+## A month-long, student-led, research-intensive project by students from Newcastle University!
 
 I am very pleased to have the opportunity to introduce a new student-led research intensive here at the Sonic Intangibles project. 
 This project involves four students who will be introducing themselves to you here over the coming weeks. These students will be mentored
